@@ -35,5 +35,5 @@ http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 http://204.12.221.218:8181/3m1080p/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" group-title="自选",CCTV17
 http://204.12.221.218:8181/3m1080p/cctv17.m3u8
-#EXTINF:-1 tvg-name="CCTV17" group-title="自选",广东体育
+#EXTINF:-1 tvg-name="广东体育" group-title="自选",广东体育
 http://204.12.221.218:8181/3m1080p/gdty.m3u8
