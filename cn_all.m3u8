@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1[S]" group-title="自选",CCTV1
+#EXTINF:-1 tvg-name="CCTV1[720][S]" group-title="自选",CCTV1
 http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="自选",CCTV2
 http://204.12.221.218:8181/3m1080p/cctv2.m3u8
@@ -35,5 +35,5 @@ http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 http://204.12.221.218:8181/3m1080p/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" group-title="自选",CCTV17
 http://204.12.221.218:8181/3m1080p/cctv17.m3u8
-#EXTINF:-1 tvg-name="gdty" group-title="自选",广东体育
+#EXTINF:-1 tvg-name="GDTY" group-title="自选",广东体育
 http://204.12.221.218:8181/3m1080p/gdty.m3u8
